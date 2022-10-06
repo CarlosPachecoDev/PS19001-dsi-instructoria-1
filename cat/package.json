@@ -1,0 +1,16 @@
+{
+  "name": "guia1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "precat": "tsc",
+    "cat": "node ../dist/cat-simulador.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
+}

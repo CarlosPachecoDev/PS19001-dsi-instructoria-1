@@ -1,0 +1,16 @@
+{
+  "name": "ej1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echo.js",
+  "scripts": {
+    "preecho":"tsc",
+    "echo":"node ../dist/echo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
+}
